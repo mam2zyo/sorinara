@@ -1,5 +1,16 @@
-# sorinara
+## sorinara
 
-What is Sori? and Nara?
+### Sori
+* do
+* re
+* mi
+* fi
+* sol
+* ra
+* si  
 
-And why we shoud concern it?
+### Nara
+* korea
+* japan
+* chian
+* usa
