@@ -1,2 +1,5 @@
 # sorinara
-This is for test
+
+What is Sori? and Nara?
+
+And why we shoud concern it?
