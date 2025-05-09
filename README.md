@@ -1,2 +1,16 @@
-# sorinara
-This is for test
+## sorinara
+
+### Sori
+* do
+* re
+* mi
+* fi
+* sol
+* ra
+* si  
+
+### Nara
+* korea
+* japan
+* chian
+* usa
